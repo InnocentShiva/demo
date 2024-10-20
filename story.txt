@@ -1,1 +1,2 @@
 This is the story file for class reference
+Changes are done on remote.
