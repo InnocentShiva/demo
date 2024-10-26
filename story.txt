@@ -1,2 +1,3 @@
 This is the story file for class reference
 Changes are done on remote.
+Hi This is the new change to be done in git LMS.
